@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col'
 
 
 
-export default function StoreListings() {
+export default function Stores() {
     return (
         <div style={{ margin: "auto" }}>
             <h2 style={{ fontSize: "36px", lineHeight: "50px", marginTop: "20px", textAlign: "center", fontWeight: "normal" }}>Browse stores in Houston</h2>

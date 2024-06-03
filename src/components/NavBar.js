@@ -2,7 +2,7 @@ import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import Button from 'react-bootstrap/Button'
 
-export default function TopBar() {
+export default function NavBarBar() {
     return (
         <div>
 <Navbar bg="light" expand="lg" >

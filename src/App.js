@@ -1,13 +1,13 @@
 import './App.css';
-import TopBar from './components/TopBar'
-import Background from './components/Background'
+import NavBar from './components/NavBar'
+import Addresses from './components/Addresses'
 import StoreListings from './components/StoreListings'
 
 function App() {
   return (
     <div className="App">
-      <TopBar />
-      <Background />
+      <NavBar />
+      <Addresses />
       <StoreListings />
     </div>
   );
